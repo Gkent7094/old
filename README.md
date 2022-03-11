@@ -1,2 +1,1 @@
-# Gkent7094.github.io
-Website project
+#Gary's website
